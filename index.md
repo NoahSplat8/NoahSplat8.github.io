@@ -2,6 +2,9 @@
 
 Hello everyone! I am Noah Goodin. I am currently a second year undergraduate at Cal State Fullerton, and in my first year as a computer science major. My favorite animal is a cat. I grew up with three cats, which was a period of time I look back on with a lot of love. I hope to have a cat later on in my 20s. My favorite video game is 'SSX Tricky', a snowboarding game on the Nintendo Gamecube. Even after having it for more than a decade and after the hundreds of hours I have put in, I can still come back to the game and play the first track without getting bored for a second. A game I also look fondly on from the past is 'The Legend of Zelda: The Wind Waker', which was a game my entire family would play at dinner. The thing I like most about computer science is learning new tools and discovering what I can do with them. As someone who is interested and has participated in game making, the funnest part is always figuring out how 'bland' components like an integer or a loop can be translated into making a piece of a game.
 
+# Computer Science Projects
+My GitHub page is [https://github.com/NoahSplat8](https://github.com/NoahSplat8)
+
 ## Favorite CPSC 120L Labs
 
 * Lab 1, Part 1.
